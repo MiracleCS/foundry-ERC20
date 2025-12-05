@@ -50,10 +50,6 @@ make anvil
 make deploy
 ```
 
-## 部署到其他网络
-
-详见下文「[部署到测试网/主网](https://www.doubao.cn)」章节。
-
 ## 测试合约
 
 
